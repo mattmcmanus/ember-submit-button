@@ -1,5 +1,7 @@
 # ember-submit-button [![Build Status](https://travis-ci.org/mattmcmanus/ember-submit-button.svg?branch=master)](https://travis-ci.org/mattmcmanus/ember-submit-button) [![Ember Observer Score](https://emberobserver.com/badges/ember-submit-button.svg)](https://emberobserver.com/addons/ember-submit-button) [![npm version](https://badge.fury.io/js/ember-submit-button.svg)](https://badge.fury.io/js/ember-submit-button)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mattmcmanus/ember-submit-button.svg)](https://greenkeeper.io/)
+
 
 `submit-button` is a small Ember component that has a handy list of features. Pass it the `ember-data` model being edited in a form and it will:
 
